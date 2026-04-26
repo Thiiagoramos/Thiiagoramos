@@ -35,18 +35,19 @@ Busco continuamente desafios que unam tecnologia e impacto real nos negócios.
 
 ---
 
-## 📌 Projetos em Destaque
+##  Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
+| [PlantIA](https://github.com/Thiiagoramos/PlantIA) | Projeto de irrigação automatizada e detecção de doenças com IA viam imagem | Python - IoT - Java - IA |
+| [PlantIA-api](https://github.com/Thiiagoramos/PlantIA-api) | Integração e consumo de APIs com Python | Python |
 | [Site-Linguagens](https://github.com/Thiiagoramos/Site-Linguagens) | Site com comparativo de linguagens de programação | JavaScript, HTML/CSS |
 | [Industria4-0](https://github.com/Thiiagoramos/Industria4-0) | Projeto explorando conceitos de Indústria 4.0 | HTML |
-| [api-python2](https://github.com/Thiiagoramos/api-python2) | Integração e consumo de APIs com Python | Python |
 | [Python-Projects](https://github.com/Thiiagoramos/Python-Projects) | Coleção de projetos e scripts Python | Python |
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Thiiagoramos&show_icons=true&theme=default&hide_border=true&count_private=true" />
@@ -55,7 +56,7 @@ Busco continuamente desafios que unam tecnologia e impacto real nos negócios.
 
 ---
 
-## 📫 Contato
+##  Contato
 
 Aberto a oportunidades em **Data Science**, **Análise de Dados** e **Desenvolvimento Full Stack**.
 
