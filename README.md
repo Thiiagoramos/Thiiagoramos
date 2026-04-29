@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-Desenvolvedor com foco em **Data Science**, **Inteligência Artificial** e **desenvolvimento Full Stack**. Trabalho com extração de valor a partir de dados — desde a modelagem e análise até a entrega de soluções web completas e dashboards analíticos.
+Desenvolvedor com foco em **Data Science**, **Inteligência Artificial** e **desenvolvimento Full Stack**. Trabalho com extração de valor a partir de dados - desde a modelagem e análise até a entrega de soluções web completas e dashboards analíticos.
 
 Busco continuamente desafios que unam tecnologia e impacto real nos negócios.
 
@@ -39,7 +39,7 @@ Busco continuamente desafios que unam tecnologia e impacto real nos negócios.
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [PlantIA](https://github.com/Thiiagoramos/PlantIA) | Projeto de irrigação automatizada e detecção de doenças com IA viam imagem | Python, IoT, Java, IA |
+| [PlantIA](https://github.com/Thiiagoramos/PlantIA) | Projeto de irrigação automatizada e detecção de doenças com IA via imagem | Python, IoT, Java, IA |
 | [PlantIA-api](https://github.com/Thiiagoramos/PlantIA-api) | Integração e consumo de APIs com Python | Python |
 | [Site-Linguagens](https://github.com/Thiiagoramos/Site-Linguagens) | Site com comparativo de linguagens de programação | JavaScript, HTML/CSS |
 | [Industria4-0](https://github.com/Thiiagoramos/Industria4-0) | Projeto explorando conceitos de Indústria 4.0 | HTML |
