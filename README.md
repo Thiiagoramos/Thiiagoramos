@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/thiago-ramos-a86107279">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://thiiagoramos.github.io/Portifolio/">
+  <a href="https://thiiagoramos.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
   </a>
 </p>
